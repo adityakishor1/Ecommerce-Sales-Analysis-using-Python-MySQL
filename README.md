@@ -28,7 +28,6 @@ This project involves end-to-end analysis of an ecommerce dataset to uncover bus
 - Exploratory Data Analysis (EDA)  
 - SQL for Business Intelligence  
 - Data Visualization and KPI Reporting  
-- Business Problem Solving  
+- Business Problem Solving. 
 
 ---
-
